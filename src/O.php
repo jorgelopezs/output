@@ -34,6 +34,7 @@ class O{
 		    padding: 10px;
 		    box-shadow: 0px 16px 73px 0px rgba(0,0,0,0.52);
 		    overflow: scroll;
+		    resize: both;
 		">
 			<h1 style="
 			    font-size: 1.69230769230769em;
